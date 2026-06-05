@@ -193,7 +193,7 @@ export default function PiFrequency() {
 
   return (
     <Wrapper>
-      <Image src="./img/pi.png" alt="π" />
+      <Image src="/img/pi.png" alt="π" />
       <Title>圆周率小数位数字频率可视化</Title>
       <Grid onSubmit={(e) => { e.preventDefault(); handleAnalyze(); }}>
         <Input

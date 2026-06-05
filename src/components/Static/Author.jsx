@@ -29,7 +29,7 @@ const Desc = styled.div`
 const Author = () => {
   return (
     <Box>
-      <Avatar src="./img/avatar.jpg" alt="avatar" />
+      <Avatar src="/img/avatar.jpg" alt="avatar" />
       <Name>西北第一深情</Name>
       <Desc>要么庸俗，要么孤独</Desc>
     </Box>
