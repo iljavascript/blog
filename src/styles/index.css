@@ -52,7 +52,7 @@ button {
 html,
 body {
   background: #f0f0f0;
-  /* font-family: "AlimamaFangYuan", sans-serif; */
+  font-family: "AlimamaFangYuan", sans-serif;
   transition: all 0.3s ease;
   overflow: hidden;
 }
